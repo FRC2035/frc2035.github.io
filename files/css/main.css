@@ -8,6 +8,11 @@ body, html {
 	overflow-x: hidden;
 }
 
+p.front {
+    margin-bottom: 100px
+
+}
+
 /* Header */
 .rockin-nav {
 	background-color: #000000 !important;
