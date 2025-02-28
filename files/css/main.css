@@ -13,6 +13,17 @@ p.front {
 
 }
 
+img.sponsors {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    max-height: 100%;
+    text-align: center;
+    justify-content: center;
+
+}
+
 /* Header */
 .rockin-nav {
 	background-color: #000000 !important;
